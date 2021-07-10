@@ -1,1 +1,1 @@
-# Shop-demo-Recat-redux-
+# Shop-demo-React-redux
